@@ -12,14 +12,13 @@
 -  Hands-on experience in **MERN Stack**, **React Native (Expo)**, **ML Algos**, **LLMs optimization**. 
 
 -  Currently working on:  
-
-  - 🗣️ **AI-powered Translation App** (text, voice, and conversational AI with Gemini APIs (ongoing) )  
-  - 📊 **Data Preprocessing Pipelines** for real-world datasets  
+   - 🗣️ **AI-powered Translation App** (text, voice, and conversational AI with Gemini APIs (ongoing) )  
+   - 📊 **Data Preprocessing Pipelines** for real-world datasets  
 
 -  Previous explorations include:  
-  - Interview-as-a-Service Platform  
-  - Distributed Event-Driven Video Processing Pipeline (FastAPI + RabbitMQ)  
-  - Speech-to-Text (Whisper) & Spoken English Tool  
+   - Interview-as-a-Service Platform  
+   - Distributed Event-Driven Video Processing Pipeline (FastAPI + RabbitMQ)  
+   - Speech-to-Text (Whisper) & Spoken English Tool  
 
 ---
 
