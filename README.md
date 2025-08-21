@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Vishnuprasad
 
-🎓 AIML Engineering Graduate
-💻 Passionate about **AI Engineering, Data Science, and Full-Stack Development**  
-🚀 Exploring AI-powered SaaS products, automation solutions, and enterprise applications  
+- 🎓 AIML Engineering Graduate
+- Passionate about **AI Engineering, Data Science, and Full-Stack Development**  
+- Exploring AI-powered SaaS products, automation solutions, and enterprise applications  
 
 ---
 
@@ -41,9 +41,9 @@
 
 ## 📈 Current Focus
 
-- 🌍 Building **AI-powered SaaS apps**  
-- 🤝 Exploring **automation in incident response & business processes**  
-- 📱 Scaling **mobile-first AI experiences**  
+- Building **AI-powered SaaS apps**  
+- Exploring **automation in incident response & business processes**  
+- Scaling **mobile-first AI experiences**  
 
 ---
 
