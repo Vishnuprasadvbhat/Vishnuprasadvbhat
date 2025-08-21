@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vishnuprasad
+# I'm Vishnuprasad
 
 - 🎓 AIML Engineering Graduate
 - Passionate about **AI Engineering, Data Science, and Full-Stack Development**  
