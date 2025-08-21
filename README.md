@@ -1,48 +1,58 @@
 # 👋 Hi, I'm Vishnuprasad
 
-A passionate developer and designer crafting energetic, accessible, and globally-minded experiences. I specialize in **React Native**, **Expo Router**, and **AI-powered translation tools** — blending technical precision with visual delight.
+🎓 AIML Engineering Graduate
+💻 Passionate about **AI Engineering, Data Science, and Full-Stack Development**  
+🚀 Exploring AI-powered SaaS products, automation solutions, and enterprise applications  
 
 ---
 
-## 🚀 What I’m Building
+## 🌟 About Me
 
-🌐 **AI Translation App**  
-A real-time, streaming translation platform with universal language support, dynamic gradients, and smooth animation transitions — designed to break language barriers with style.
+- 🔹 Building projects at the intersection of **AI, SaaS, and Web Development**  
+- 🔹 Hands-on experience in **MERN Stack**, **React Native (Expo)**, **ML Algos**, **LLMs optimization**. 
 
----
+- 🔹 Currently working on:  
 
-## 🧠 Skills & Tools
+  - 🗣️ **AI-powered Translation App** (text, voice, and conversational AI with Gemini APIs (ongoing) )  
+  - 📊 **Data Preprocessing Pipelines** for real-world datasets  
 
-- **Frontend**: React Native · Expo · Tailwind · Framer Motion
-- **Backend**: Node.js · Express · Streaming APIs · Error Handling
-- **Design**: Gradient Harmony · Glowing Effects · UI/UX Accessibility
-- **Internationalization**: Modular i18n logic · Dynamic language switching
-- **Dev Practices**: Scalable architecture · Refactoring · Expo compatibility
-
----
-
-## 🎨 Design Philosophy
-
-I believe interfaces should feel alive — with color that energizes, motion that guides, and accessibility that welcomes everyone. Whether it's a glowing intro screen or a seamless picker animation, every detail matters.
+- 🔹 Previous explorations include:  
+  - Interview-as-a-Service Platform  
+  - Distributed Event-Driven Video Processing Pipeline (FastAPI + RabbitMQ)  
+  - Speech-to-Text (Whisper) & Spoken English Tool  
 
 ---
 
-## 📈 Current Goals
+## 🛠️ Tech Stack & Tools
 
-- 🚧 Launch a polished Expo-compatible translation app
-- 🌍 Build a scalable platform that feels welcoming across cultures
-- 🎯 Refine modular architecture for maintainability and performance
+**Languages & Frameworks**  
+- Python | JavaScript | TypeScript | Node.js | React | React Native (Expo)  
+
+**Backend & Databases**  
+- Express.js | MongoDB | Supabase | FastAPI | RabbitMQ  
+
+**AI/ML**  
+- HuggingFace | PyTorch | Scikit-learn | OpenAI | Google Gemini APIs | IBM Granite  
+
+**DevOps & Tools**  
+- Git/GitHub | Docker | Swagger | Tailwind CSS  
 
 ---
 
-## 📫 Let’s Connect
+## 📈 Current Focus
 
-- 💼 [Portfolio](#) (coming soon)
-- 🐦 [Twitter](https://twitter.com/)
-- 📮 [LinkedIn](https://linkedin.com/in/)
+- 🌍 Building **AI-powered SaaS apps**  
+- 🤝 Exploring **automation in incident response & business processes**  
+- 📱 Scaling **mobile-first AI experiences**  
 
 ---
 
-> “Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs
+## 📬 Connect with Me
 
-Thanks for stopping by! ✨
+- 💼 [LinkedIn](https://www.linkedin.com/in/vishnuprasadvbhat/)   
+- 📸 [Instagram: sacredmonk_](https://www.instagram.com/sacredmonk_)  
+- ✉️ Reach me at: **[vishnuprasadvbhat@gmail.com]**
+
+---
+
+⭐️ _Always exploring, building, and learning in public_  
