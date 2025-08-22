@@ -54,4 +54,4 @@
 
 ---
 
-⭐️ _Always exploring, building, and learning in public_  
+⭐️ _Always exploring, building, and learning_  
